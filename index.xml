@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HYK</title>
+    <link>/</link>
+    <description>Recent content on HYK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在接纳的状态里记录生活</title>
+      <link>/posts/a/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/a/</guid>
+      <description>&lt;p&gt;坐在电脑面前敲击着键盘，一个字一个字的往外跳出来，低头一看，小宝就趴在我的左手边小憩，此时的感受就是：“岁月静好，有你真好”。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
